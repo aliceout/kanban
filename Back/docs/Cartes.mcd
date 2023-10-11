@@ -1,0 +1,11 @@
+carte: code carte, titre, position, couleur
+posséder, 0N carte, 0N tag
+tag: code tag, nom, couleur
+
+appartenir, 11 carte, 0N liste
+:
+:
+
+liste: code liste, nom, position
+:
+:
